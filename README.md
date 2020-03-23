@@ -24,6 +24,10 @@ Nano is an easy to use, fast, lightweight game server networking library for Go.
 
 Zinx 是一个基于 Golang 的轻量级并发服务器框架
 
+## [LollipopGo](https://github.com/Golangltd/LollipopGo) ![LollipopGo](https://img.shields.io/github/stars/Golangltd/LollipopGo)
+
+Golang语言社区 全球服游戏服务器框架,目前协议支持websocket、http及RPC，采用状态同步，愿景：打造竞技实时【比赛】对战游戏平台框架！ 功能持续更新中... ...
+
 ## [imageserver](https://github.com/pierrre/imageserver) ![imageserver](https://img.shields.io/github/stars/pierrre/imageserver)
 
 An image server toolkit in Go (Golang)
